@@ -1,4 +1,4 @@
-// api/comed.js
+// api/index.js
 
 export default async function handler(req, res) {
   try {
